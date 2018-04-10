@@ -1,2 +1,3 @@
-# Client side library for the Anticipatables Expectation Manager
+# Anticipatables Expectation Manager
+## Client side library
 ----
