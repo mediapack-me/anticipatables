@@ -1,3 +1,3 @@
-# Anticipatables Expectation Manager
+# Anticipatables: The Expectation Manager
 ## Client side library
 ----
