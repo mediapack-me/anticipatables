@@ -1,2 +1,2 @@
-# Client Side Code for the Anticipatables Mech
+# Client side library for the Anticipatables Expectation Manager
 ----
